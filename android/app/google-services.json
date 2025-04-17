@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "268803480135",
+    "firebase_url": "https://med4free-65f22-default-rtdb.firebaseio.com",
+    "project_id": "med4free-65f22",
+    "storage_bucket": "med4free-65f22.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268803480135:android:bb620bc1103d887d90ef62",
+        "android_client_info": {
+          "package_name": "com.example.med4free"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMKvXYfEzeqlYUtdCwCCC866DAwciC5xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

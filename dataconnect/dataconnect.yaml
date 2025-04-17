@@ -1,0 +1,12 @@
+specVersion: "v1beta"
+serviceId: "med4free"
+location: "us-central1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "fdcdb"
+      cloudSql:
+        instanceId: "med4free-fdc"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]
